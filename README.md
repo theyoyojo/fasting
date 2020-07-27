@@ -1,6 +1,6 @@
 # Studies on fasting
 
-[Short-term fasting induces profound neuronal autophagy](https://www.tandfonline.com/doi/full/10.4161/auto.6.6.12376) [PDF](alirezaei_2010.pdf)
+[Short-term fasting induces profound neuronal autophagy (2010)](https://www.tandfonline.com/doi/full/10.4161/auto.6.6.12376) [PDF](alirezaei_2010.pdf)
 
 Summary:
 
@@ -22,4 +22,15 @@ Summary:
 
 * This was a study of growth horomone (GH) in adult human males
 * The authors conclude that level of nutrition in human had a significant effect on GH levels
+
+
+[Metabolic effects of fasting on human and mouse blood in vivo (2017)](https://pubmed.ncbi.nlm.nih.gov/28059587/)[PDF](pietrocola_2017.pdf)
+
+Summary:
+
+* This was a study to measure levels of autophagy in mice and humans
+* The authors note in the introduction that autophagy is "uniformly" used to induce an increase in longevity for research purposes
+* Supression of autophagy in mice leads to a negation of other "anti-aging ... manipulations"
+* The researchers were able to measure noticable increases in autophagy in mice after 48 hrs of fasting
+* They also measured similarly significant increases in humans after between 48 and 96 hours of fasting
 
